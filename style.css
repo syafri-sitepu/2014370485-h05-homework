@@ -1,0 +1,148 @@
+.absolute {
+  position: absolute;
+}
+.relative {
+  position: relative;
+}
+.relative-2{
+  position: relative;
+  top: 120px;
+}
+.relative-3{
+  position: relative;
+  top: 140px;
+}
+.relative-4{
+  position: relative;
+  top: 950px;
+}
+.relative-5{
+  position: relative;
+  top: 970px;
+}
+.right {
+  right :0;
+  margin-right :0px
+}
+.left {
+  left: 0;
+}
+.bg-blue {
+  background-color:blue;
+  width: 160px;
+  height: 100px;
+}
+.bg-orange {
+  background-color:orange;
+  width: 740px;
+  height: 100px;
+}
+.bg-maroon {
+  background-color:maroon;
+  width: 1100px;
+  height: 45px;
+}
+.bg-darkgreen {
+  background-color:darkgreen;
+  width: 160px;
+  height: 490px;
+}
+.bg-darkgreen2 {
+  background-color:darkgreen;
+  width: 160px;
+  height: 290px;
+}
+.bg-black {
+  background-color:black;
+  width: 740px;
+  height: 800px;
+  top: 200;
+}
+.bg-lightgrey {
+  background-color:lightgrey;
+  width: 700px;
+  height: 300px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.bg-white{
+  background-color:white;
+  width :220px;
+  height :120px;
+}
+.bg-chocolate{
+  background-color:chocolate;
+  width :1100px;
+  height :90px;
+}
+.bg-beige{
+  background-color:beige;
+  width:172px;
+  height:70px;
+  margin-left:10px;
+  margin-top:10px;
+}
+.bg-brown{
+  background-color:brown;
+  width: 1100px;
+  height:200px;
+}
+.bg-yellow{
+  background-color:yellow;
+  width: 345px;
+  height:80px;
+  margin-left:10px;
+  margin-top:10px;
+}
+.bg-yellow2{
+  background-color:yellow;
+  width: 235px;
+  height:180px;
+  margin-left:10px;
+  margin-top:10px;
+  margin-right:10px;
+}
+.margin {
+  margin-left:180px;
+}
+.margin-top{
+  margin-top: 20px;
+}
+.margin-left {
+  margin-left: 240px;
+}
+.margin-left2 {
+  margin-left: 191px;
+}
+.margin-left3 {
+  margin-left: 372px;
+}
+.margin-left4 {
+  margin-left: 554px;
+}
+.margin-left5 {
+  margin-left: 736px;
+}
+.margin-left6 {
+  margin-left: 365px;
+}
+.margin-left7 {
+  margin-left: 610px;
+}
+.width {
+  width:160px;
+}
+.height{
+  height:800px;
+}
+.tengah{
+  margin-left :20px;
+  margin-right :20px;
+  margin-top :20px;
+}
+.tengah2{
+  margin-left :0px;
+  margin-right :10px;
+  margin-top :10px;
+  margin-bottom:10;
+}
